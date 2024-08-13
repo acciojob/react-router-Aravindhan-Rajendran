@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
       <h1>About This Application</h1>
-      <p>This application demonstrates basic routing using React Router.</p>
+      <p>This is a sample React Router program.</p>
     </div>
   );
 };
